@@ -47,3 +47,4 @@ class test {
         kusalcar.print();
     }
 }
+// get key word use  next week 7 and 8

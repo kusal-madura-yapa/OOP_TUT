@@ -19,6 +19,7 @@ public class ObjectComparisonTest {
 
         if (g1.equals(g2))
             System.out.println("g1.equals(g2) evaluates: true");
+
         else
             System.out.println("g1.equals(g2) evaluates: false");
         System.out.println(); // print an extra newline

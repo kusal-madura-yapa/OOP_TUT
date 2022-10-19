@@ -11,7 +11,7 @@ public class VendingMachineTester
         // calling the constructor
         //VendingMachine machine = new VendingMachine();
         // when you call the object in that time constructor parameter update by argument 10
-        VendingMachine machine = new VendingMachine(10);
+        VendingMachine machine = new VendingMachine();
         machine.fillUp(10); // fill up with ten cans
         machine.insertToken();
         machine.insertToken();

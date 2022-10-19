@@ -110,9 +110,8 @@ public class VotingMachine<Public> {
         this.countLabourVote = (int)(Math.random() * 101);  // 0 to 100
         System.out.println(this.countLabourVote);
         System.out.print("Conservative votes : ");
-        this.countConservativeVote = (int)(Math.random() * 101);  // 0 to 100
+        this.countConservativeVote = 0;
         System.out.println(this.countConservativeVote);
-
     }
 
 

@@ -4,16 +4,16 @@ package week_3;
 public class VendingMachine {
     private int cans ;
     private int tokenCount ;
-//    VendingMachine(){
-//        this.cans=10;
-//        this.tokenCount=0;
-//    }
-
-    VendingMachine(int canStart){
-        this.cans+= canStart;
+    VendingMachine(){
+        this.cans=10;
         this.tokenCount=0;
-
     }
+
+//    VendingMachine(int canStart){
+//        this.cans+= canStart;
+//        this.tokenCount=0;
+//
+//    }
 
 
     public  void  fillUp(int cans)
@@ -49,6 +49,5 @@ public class VendingMachine {
     public int getCanCount() {
 
         return tokenCount;
-
     }
 }
