@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6302f95e-6e60-49e5-b8e3-dc46d181d464" name="Changes" comment="" />
+    <list default="true" id="6302f95e-6e60-49e5-b8e3-dc46d181d464" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week_4/BankAcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/LinearEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_TUT/week_4/Testclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_4/Card.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,7 +60,20 @@
       <recent name="C:\Users\kusal\Desktop\OOP_TUT\src\week_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Testclass">
+  <component name="RunManager" selected="Application.Letter">
+    <configuration name="Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_4.Letter" />
+      <module name="OOP_TUT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectComparisonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_3.ObjectComparisonTest" />
       <module name="OOP_TUT" />
@@ -89,19 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VotingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_3.VotingMachine" />
-      <module name="OOP_TUT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_3.test" />
       <module name="OOP_TUT" />
@@ -117,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Letter" />
         <item itemvalue="Application.Testclass" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.ObjectComparisonTest" />
         <item itemvalue="Application.ReferenceCopyExample" />
-        <item itemvalue="Application.VotingMachine" />
       </list>
     </recent_temporary>
   </component>
