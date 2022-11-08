@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6302f95e-6e60-49e5-b8e3-dc46d181d464" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_4/BankAcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/Equation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/LinearEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Appointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/BankAccount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/BankAccount2Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Daily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_4/Monthly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_TUT/week_4/Testclass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_4/Card.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
