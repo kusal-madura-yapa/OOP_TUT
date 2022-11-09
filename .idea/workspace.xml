@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6302f95e-6e60-49e5-b8e3-dc46d181d464" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_4/Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/BankAccount2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/BankAccount2Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/Daily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_4/Monthly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_5/CalcManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
