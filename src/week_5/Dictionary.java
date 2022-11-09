@@ -12,5 +12,7 @@ class Dictionary extends Book {
         return super.toString()+"  count of pages pages , " + words + " words";
     }
 
+   final int NUM =0;
+
 }
 
