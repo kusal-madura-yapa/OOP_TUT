@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6302f95e-6e60-49e5-b8e3-dc46d181d464" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_5/CellTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_5/CellTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_5/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_5/NodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_5/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_6/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_TUT/week_5/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_TUT/week_5/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_TUT/week_5/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_TUT/week_5/Dictionary.class" afterDir="false" />
-    </list>
+    <list default="true" id="6302f95e-6e60-49e5-b8e3-dc46d181d464" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

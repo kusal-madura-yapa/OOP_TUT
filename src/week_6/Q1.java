@@ -55,34 +55,7 @@ import java.util.*;
             return max;
         }
 
-        public int findMaxInDiagonal(){
-            int max = 0;
-            // give max
-            int x = ar.length;
-            // get the array size
-            int y = 0;
 
-            for (int dioganI = 0; dioganI < ar.length; dioganI++){
-                int iter2 = y;
-                //upper diagonal
-                for (int i = 0; i < x; i++){
-                    // i is incrementing
-                    if (ar[i][iter2] > max){
-                        max = ar[i][iter2];
-                    }
-                    //lower diagonal
-                    if ( y != 0){
-                        if (ar[iter2][i] > max){
-                            max = ar[iter2][i];
-                        }
-                    }
-                    iter2++;
-                }
-                x--;
-                y++;
-            }
-            return max;
-        }
     }
 
     public class Q1 {
@@ -105,8 +78,37 @@ import java.util.*;
             System.out.println("Max in column: "+board1.findMaxInColumn(4));
             System.out.println("Max in column: "+board1.findMaxInColumn(5));
             System.out.println(".......................................");
-            System.out.println("Max in diagonal: "+board1.findMaxInDiagonal());
+
         }
     }
+//        public int findMaxInDiagonal(){
+//            int max = 0;
+//            // give max
+//            int x = ar.length;
+//            // get the array size
+//            int y = 0;
+//
+//            for (int dioganI = 0; dioganI < ar.length; dioganI++){
+//                int iter2 = y;
+//                //upper diagonal
+//                for (int i = 0; i < x; i++){
+//                    // i is incrementing
+//                    if (ar[i][iter2] > max){
+//                        max = ar[i][iter2];
+//                    }
+//                    //lower diagonal
+//                    if ( y != 0){
+//                        if (ar[iter2][i] > max){
+//                            max = ar[iter2][i];
+//                        }
+//                    }
+//                    iter2++;
+//                }
+//                x--;
+//                y++;
+//            }
+//            return max;
+//        }
 
+//System.out.println("Max in diagonal: "+board1.findMaxInDiagonal());
 
