@@ -1,4 +1,4 @@
-
+package week_1;
 
 public class Q5 {
     //    5 Java Reminder - While Loops and ifs

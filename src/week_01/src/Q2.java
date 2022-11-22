@@ -1,4 +1,4 @@
-
+package week_1;
 
 public class Q2 {
         //2 Java/Netbeans Reminder
